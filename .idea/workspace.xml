@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="891f64cf-702a-413d-884f-a54d02f03ae0" name="Changes" comment="Global">
-      <change afterPath="$PROJECT_DIR$/refs/fs_ref.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/refs/path_ref.js" afterDir="false" />
+    <list default="true" id="891f64cf-702a-413d-884f-a54d02f03ae0" name="Changes" comment="Создание папки и создание файла node js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/refs/fs_ref.js" beforeDir="false" afterPath="$PROJECT_DIR$/refs/fs_ref.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/refs/notes/assdf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/refs/notes/mynotes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/refs/notes/mynotes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <workItem from="1668772276795" duration="96000" />
       <workItem from="1668772390980" duration="3953000" />
       <workItem from="1668841424340" duration="1431000" />
-      <workItem from="1668842879243" duration="206000" />
+      <workItem from="1668842879243" duration="1162000" />
     </task>
     <task id="LOCAL-00001" summary="node js">
       <created>1668772089038</created>
@@ -76,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668775927040</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Создание папки и создание файла node js">
+      <created>1668843202900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668843202900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="node js" />
     <MESSAGE value="Global" />
-    <option name="LAST_COMMIT_MESSAGE" value="Global" />
+    <MESSAGE value="Создание папки и создание файла node js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание папки и создание файла node js" />
   </component>
 </project>
