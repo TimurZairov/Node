@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="891f64cf-702a-413d-884f-a54d02f03ae0" name="Changes" comment="Изменение имени фала fs.rename">
-      <change afterPath="$PROJECT_DIR$/refs/os_ref.js" afterDir="false" />
+    <list default="true" id="891f64cf-702a-413d-884f-a54d02f03ae0" name="Changes" comment="Метод Os в node js работа с системой компьютера">
+      <change afterPath="$PROJECT_DIR$/refs/events_ref.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <workItem from="1668772276795" duration="96000" />
       <workItem from="1668772390980" duration="3953000" />
       <workItem from="1668841424340" duration="1431000" />
-      <workItem from="1668842879243" duration="2950000" />
+      <workItem from="1668842879243" duration="3279000" />
     </task>
     <task id="LOCAL-00001" summary="node js">
       <created>1668772089038</created>
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668844853197</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Метод Os в node js работа с системой компьютера">
+      <created>1668857582095</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668857582095</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
     <MESSAGE value="Создание папки и создание файла node js" />
     <MESSAGE value="Изменение созданного файла fs.appendFile node js" />
     <MESSAGE value="Изменение имени фала fs.rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменение имени фала fs.rename" />
+    <MESSAGE value="Метод Os в node js работа с системой компьютера" />
+    <option name="LAST_COMMIT_MESSAGE" value="Метод Os в node js работа с системой компьютера" />
   </component>
 </project>
