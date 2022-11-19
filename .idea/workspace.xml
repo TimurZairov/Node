@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="891f64cf-702a-413d-884f-a54d02f03ae0" name="Changes" comment="Прослушивание определенных событий EventEmitter = events">
+    <list default="true" id="891f64cf-702a-413d-884f-a54d02f03ae0" name="Changes" comment="http =&gt; создание сервера с помощью http">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <workItem from="1668772276795" duration="96000" />
       <workItem from="1668772390980" duration="3953000" />
       <workItem from="1668841424340" duration="1431000" />
-      <workItem from="1668842879243" duration="4299000" />
+      <workItem from="1668842879243" duration="6656000" />
     </task>
     <task id="LOCAL-00001" summary="node js">
       <created>1668772089038</created>
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668857974465</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="http =&gt; создание сервера с помощью http">
+      <created>1668858946002</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668858946002</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +155,7 @@
     <MESSAGE value="Изменение имени фала fs.rename" />
     <MESSAGE value="Метод Os в node js работа с системой компьютера" />
     <MESSAGE value="Прослушивание определенных событий EventEmitter = events" />
-    <option name="LAST_COMMIT_MESSAGE" value="Прослушивание определенных событий EventEmitter = events" />
+    <MESSAGE value="http =&gt; создание сервера с помощью http" />
+    <option name="LAST_COMMIT_MESSAGE" value="http =&gt; создание сервера с помощью http" />
   </component>
 </project>
